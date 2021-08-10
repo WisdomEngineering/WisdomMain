@@ -16,6 +16,16 @@ const NewsText = (props) => {
         )
       }
       {
+        paragraph.hasOwnProperty("pdf") &&
+        paragraph.pdf.map((pdf, index) => {
+          return (
+            <div key={index}>
+              <a href={pdf.path} download>{pdf.text}</a>
+            </div>
+          )
+        })
+      }
+      {
         <div>
         {paragraph.imgUrl.map((image, index) => 
             image.image===null?<div key={index} />:
