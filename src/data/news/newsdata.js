@@ -191,6 +191,7 @@ import internationalForum2015_14 from '../../images/news/international-forum-201
 import internationalForum2015_15 from '../../images/news/international-forum-2015/forum15.jpg';
 import internationalForum2015_16 from '../../images/news/international-forum-2015/forum16.jpg';
 import aboutImg from '../../images/news/policy-int/about.jpg';
+import publicAccount from '../../images/public-wechat.png';
 
 
 const newsdata = [
@@ -719,7 +720,15 @@ const newsdata = [
                   en: "在此，江苏智道工程技术有限公司感谢所有员工的辛勤付出，把我们建设的越来越好。同时，向没有能来参加活动，休息日仍奋战在第一线的员工表示最诚挚的感谢。"
                 }
               ],
-              imgUrl: []
+              imgUrl: [
+                {
+                  image: publicAccount,
+                  caption: {
+                    zh: "",
+                    en: ""
+                  }
+                }
+              ]
             },
           ]
         },
