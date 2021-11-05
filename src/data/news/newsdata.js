@@ -1,3 +1,61 @@
+
+import familyDay2021_1 from '../../images/news/2021-family-day/family-day-1.jpg';
+import familyDay2021_2 from '../../images/news/2021-family-day/family-day-2.jpg';
+import familyDay2021_3 from '../../images/news/2021-family-day/family-day-3.jpg';
+import familyDay2021_4 from '../../images/news/2021-family-day/family-day-4.jpg';
+import familyDay2021_5 from '../../images/news/2021-family-day/family-day-5.jpg';
+import familyDay2021_6 from '../../images/news/2021-family-day/family-day-6.jpg';
+import familyDay2021_7 from '../../images/news/2021-family-day/family-day-7.jpg';
+import familyDay2021_8 from '../../images/news/2021-family-day/family-day-8.jpg';
+import familyDay2021_9 from '../../images/news/2021-family-day/family-day-9.jpg';
+import familyDay2021_10 from '../../images/news/2021-family-day/family-day-10.jpg';
+import familyDay2021_11 from '../../images/news/2021-family-day/family-day-11.jpg';
+import familyDay2021_12 from '../../images/news/2021-family-day/family-day-12.jpg';
+import familyDay2021_13 from '../../images/news/2021-family-day/family-day-13.jpg';
+import familyDay2021_14 from '../../images/news/2021-family-day/family-day-14.jpg';
+import familyDay2021_15 from '../../images/news/2021-family-day/family-day-15.jpg';
+import familyDay2021_16 from '../../images/news/2021-family-day/family-day-16.jpg';
+import familyDay2021_17 from '../../images/news/2021-family-day/family-day-17.jpg';
+import familyDay2021_18 from '../../images/news/2021-family-day/family-day-18.jpg';
+import familyDay2021_19 from '../../images/news/2021-family-day/family-day-19.jpg';
+import familyDay2021_20 from '../../images/news/2021-family-day/family-day-20.jpg';
+import familyDay2021_21 from '../../images/news/2021-family-day/family-day-21.jpg';
+import familyDay2021_22 from '../../images/news/2021-family-day/family-day-22.jpg';
+import familyDay2021_23 from '../../images/news/2021-family-day/family-day-23.jpg';
+import familyDay2021_24 from '../../images/news/2021-family-day/family-day-24.jpg';
+import familyDay2021_25 from '../../images/news/2021-family-day/family-day-25.jpg';
+import familyDay2021_26 from '../../images/news/2021-family-day/family-day-26.jpg';
+import familyDay2021_27 from '../../images/news/2021-family-day/family-day-27.jpg';
+import familyDay2021_28 from '../../images/news/2021-family-day/family-day-28.jpg';
+import familyDay2021_29 from '../../images/news/2021-family-day/family-day-29.jpg';
+import familyDay2021_30 from '../../images/news/2021-family-day/family-day-30.jpg';
+import familyDay2021_31 from '../../images/news/2021-family-day/family-day-31.jpg';
+import familyDay2021_32 from '../../images/news/2021-family-day/family-day-32.jpg';
+import familyDay2021_33 from '../../images/news/2021-family-day/family-day-33.jpg';
+import familyDay2021_34 from '../../images/news/2021-family-day/family-day-34.jpg';
+import familyDay2021_35 from '../../images/news/2021-family-day/family-day-35.jpg';
+import familyDay2021_36 from '../../images/news/2021-family-day/family-day-36.jpg';
+import familyDay2021_37 from '../../images/news/2021-family-day/family-day-37.jpg';
+import familyDay2021_38 from '../../images/news/2021-family-day/family-day-38.jpg';
+import familyDay2021_39 from '../../images/news/2021-family-day/family-day-39.jpg';
+import familyDay2021_40 from '../../images/news/2021-family-day/family-day-40.jpg';
+import familyDay2021_41 from '../../images/news/2021-family-day/family-day-41.jpg';
+import familyDay2021_42 from '../../images/news/2021-family-day/family-day-42.jpg';
+import familyDay2021_43 from '../../images/news/2021-family-day/family-day-43.jpg';
+import familyDay2021_44 from '../../images/news/2021-family-day/family-day-44.jpg';
+import familyDay2021_45 from '../../images/news/2021-family-day/family-day-45.jpg';
+import familyDay2021_46 from '../../images/news/2021-family-day/family-day-46.jpg';
+import familyDay2021_47 from '../../images/news/2021-family-day/family-day-47.jpg';
+import familyDay2021_48 from '../../images/news/2021-family-day/family-day-48.jpg';
+import familyDay2021_49 from '../../images/news/2021-family-day/family-day-49.jpg';
+import familyDay2021_50 from '../../images/news/2021-family-day/family-day-50.jpg';
+import familyDay2021_51 from '../../images/news/2021-family-day/family-day-51.jpg';
+import familyDay2021_52 from '../../images/news/2021-family-day/family-day-52.jpg';
+import familyDay2021_53 from '../../images/news/2021-family-day/family-day-53.jpg';
+import familyDay2021_54 from '../../images/news/2021-family-day/family-day-54.jpg';
+import familyDay2021_55 from '../../images/news/2021-family-day/family-day-55.jpg';
+import familyDay2021_56 from '../../images/news/2021-family-day/family-day-56.jpg';
+import familyDay2021_57 from '../../images/news/2021-family-day/family-day-57.jpg';
 import advancedConstructionNangang2021_1 from '../../images/news/2021-advanced-construction-nangang/advanced-construction-nangang-2021-1.jpg';
 import advancedConstructionNangang2021_2 from '../../images/news/2021-advanced-construction-nangang/advanced-construction-nangang-2021-2.jpg';
 import marchPress2021_1 from '../../images/news/2021-march-press-release/press-release-march-2021-1.jpg';
@@ -146,12 +204,12 @@ const newsdata = [
         
         {
           head: {
-            zh: "关于余从立申报江苏省第九批产业教授的公示",
-            en: "关于余从立申报江苏省第九批产业教授的公示"
+            zh: "大家智道 感恩有你 ｜ 江苏智道第二届家庭开放日活动",
+            en: "大家智道 感恩有你 ｜ 江苏智道第二届家庭开放日活动"
           },
-          id: "2021-yucongli-shenbao",
-          timestamp: "1628595502",
-          headImage: aboutImg,
+          id: "2021-family-day",
+          timestamp: "1619662851",
+          headImage: familyDay2021_57,
           text: [
             {
               subHead: {
@@ -160,23 +218,391 @@ const newsdata = [
               },
               subText: [
                 {
-                  zh: "根据苏教高〔2020〕5 号“关于印发《江苏省产业教授（本科类）选聘办法》的通知”，经研究我司拟推荐设计研究院院长余从立申报江苏省第九批产业教授，现将相关情况予以公示。公示期为5天（2021年8月10日至8月14日）；在公示期间如对余从立同志申报情况有异议，请以书面形式向公司总经办反映情况。",
-                  en: "根据苏教高〔2020〕5 号“关于印发《江苏省产业教授（本科类）选聘办法》的通知”，经研究我司拟推荐设计研究院院长余从立申报江苏省第九批产业教授，现将相关情况予以公示。公示期为5天（2021年8月10日至8月14日）；在公示期间如对余从立同志申报情况有异议，请以书面形式向公司总经办反映情况。"
+                  zh: "2021年10月31日，江苏智道第二届家庭开放日活动在南京市溧水区阡陌花开景区圆满结束。早上8点，一辆满载全体员工及家属的大巴车从公司楼下出发。",
+                  en: "2021年10月31日，江苏智道第二届家庭开放日活动在南京市溧水区阡陌花开景区圆满结束。早上8点，一辆满载全体员工及家属的大巴车从公司楼下出发。"
                 },
                 {
-                  zh: "联系人：总经办 孙园园 15895980365",
-                  en: "联系人：总经办 孙园园 15895980365"
+                  zh: "第一个目的地：溧水基地！我们来啦！",
+                  en: "第一个目的地：溧水基地！我们来啦！"
                 }
               ],
-              imgUrl: [],
-              pdf: [
+              imgUrl: [
                 {
-                  path: "/pdf/关于印发《江苏省产业教授（本科类）选聘办法》的通知.pdf",
-                  text: "附件1 关于印发《江苏省产业教授（本科类）选聘办法》的通知"
+                  image: familyDay2021_1,
+                  caption: {
+                    zh: "",
+                    en: ""
+                  }
                 },
                 {
-                  path: "/pdf/江苏省产业教授申报书（本科类）（余从立）.pdf",
-                  text: "附件2 江苏省产业教授申报书（本科类）（余从立）"
+                  image: familyDay2021_2,
+                  caption: {
+                    zh: "",
+                    en: ""
+                  }
+                },
+                {
+                  image: familyDay2021_3,
+                  caption: {
+                    zh: "",
+                    en: ""
+                  }
+                },
+                {
+                  image: familyDay2021_4,
+                  caption: {
+                    zh: "",
+                    en: ""
+                  }
+                },
+                {
+                  image: familyDay2021_5,
+                  caption: {
+                    zh: "溧水地标性建筑 即将拔地而起！",
+                    en: "溧水地标性建筑 即将拔地而起！"
+                  }
+                },
+              ]
+            },
+            {
+              subHead: {
+                zh: "",
+                en: ""
+              },
+              subText: [
+                {
+                  zh: "溧水，作为秦淮河的发源地，是一个山清水秀、风景宜人的地方。“健康，活力”是溧水区的代名词，同时也是我们智道人的精神体现。未来公司总部基地就坐落于溧水开发区的产业园内，面积约2万平米，毗邻溧水空港小镇，近地铁、近高速，交通方便且环境优美。整个基地的建设充分彰显了“以人为本”的设计理念，开放式办公区、现代化工厂，我们将打造成国家级工程技术中心兼国际研发设计中心，并设立国家级重点实验室，院士、专家团队工作站等。",
+                  en: "溧水，作为秦淮河的发源地，是一个山清水秀、风景宜人的地方。“健康，活力”是溧水区的代名词，同时也是我们智道人的精神体现。未来公司总部基地就坐落于溧水开发区的产业园内，面积约2万平米，毗邻溧水空港小镇，近地铁、近高速，交通方便且环境优美。整个基地的建设充分彰显了“以人为本”的设计理念，开放式办公区、现代化工厂，我们将打造成国家级工程技术中心兼国际研发设计中心，并设立国家级重点实验室，院士、专家团队工作站等。"
+                },
+                {
+                  zh: "第二个目的地：阡陌花开景区！GO! GO! GO!",
+                  en: "第二个目的地：阡陌花开景区！GO! GO! GO!"
+                },
+                {
+                  zh: "丰富的活动一定是游玩的关键内容，直接开始我们今天的活动。",
+                  en: "丰富的活动一定是游玩的关键内容，直接开始我们今天的活动。"
+                },
+                {
+                  zh: "ROUND 1  包饺子大赛！",
+                  en: "ROUND 1  包饺子大赛！"
+                },
+              ],
+              imgUrl: [
+                {
+                  image: familyDay2021_6,
+                  caption: {
+                    zh: "",
+                    en: ""
+                  }
+                },
+                {
+                  image: familyDay2021_7,
+                  caption: {
+                    zh: "",
+                    en: ""
+                  }
+                },
+                {
+                  image: familyDay2021_8,
+                  caption: {
+                    zh: "",
+                    en: ""
+                  }
+                },
+                {
+                  image: familyDay2021_9,
+                  caption: {
+                    zh: "",
+                    en: ""
+                  }
+                },
+                {
+                  image: familyDay2021_10,
+                  caption: {
+                    zh: "",
+                    en: ""
+                  }
+                },
+                {
+                  image: familyDay2021_11,
+                  caption: {
+                    zh: "",
+                    en: ""
+                  }
+                },
+                {
+                  image: familyDay2021_12,
+                  caption: {
+                    zh: "",
+                    en: ""
+                  }
+                },
+                {
+                  image: familyDay2021_13,
+                  caption: {
+                    zh: "包饺子嘛，我也来试试",
+                    en: "包饺子嘛，我也来试试"
+                  }
+                },
+                {
+                  image: familyDay2021_14,
+                  caption: {
+                    zh: "自信的小步伐~",
+                    en: "自信的小步伐~"
+                  }
+                },
+                {
+                  image: familyDay2021_15,
+                  caption: {
+                    zh: "",
+                    en: ""
+                  }
+                },
+                {
+                  image: familyDay2021_16,
+                  caption: {
+                    zh: "",
+                    en: ""
+                  }
+                },
+                {
+                  image: familyDay2021_17,
+                  caption: {
+                    zh: "",
+                    en: ""
+                  }
+                },
+                {
+                  image: familyDay2021_18,
+                  caption: {
+                    zh: "",
+                    en: ""
+                  }
+                },
+                {
+                  image: familyDay2021_19,
+                  caption: {
+                    zh: "能干的小伙子",
+                    en: "能干的小伙子"
+                  }
+                },
+                {
+                  image: familyDay2021_20,
+                  caption: {
+                    zh: "去玩儿咯~",
+                    en: "去玩儿咯~"
+                  }
+                },
+                {
+                  image: familyDay2021_21,
+                  caption: {
+                    zh: "家的美好",
+                    en: "家的美好"
+                  }
+                },
+                {
+                  image: familyDay2021_22,
+                  caption: {
+                    zh: "",
+                    en: ""
+                  }
+                },
+                {
+                  image: familyDay2021_23,
+                  caption: {
+                    zh: "",
+                    en: ""
+                  }
+                },
+                {
+                  image: familyDay2021_24,
+                  caption: {
+                    zh: "辛苦啦，煮饺子大师！",
+                    en: "辛苦啦，煮饺子大师！"
+                  }
+                },
+                {
+                  image: familyDay2021_25,
+                  caption: {
+                    zh: "",
+                    en: ""
+                  }
+                },
+                {
+                  image: familyDay2021_26,
+                  caption: {
+                    zh: "",
+                    en: ""
+                  }
+                },
+                {
+                  image: familyDay2021_27,
+                  caption: {
+                    zh: "小伙伴们都太棒啦！",
+                    en: "小伙伴们都太棒啦！"
+                  }
+                },
+                {
+                  image: familyDay2021_28,
+                  caption: {
+                    zh: "",
+                    en: ""
+                  }
+                },
+                {
+                  image: familyDay2021_29,
+                  caption: {
+                    zh: "",
+                    en: ""
+                  }
+                },
+                {
+                  image: familyDay2021_30,
+                  caption: {
+                    zh: "",
+                    en: ""
+                  }
+                },
+                {
+                  image: familyDay2021_31,
+                  caption: {
+                    zh: "评审团给出极其专业意见~",
+                    en: "评审团给出极其专业意见~"
+                  }
+                },
+              ]
+            },
+            {
+              subHead: {
+                zh: "",
+                en: ""
+              },
+              subText: [
+                {
+                  zh: "江苏智道卧虎藏龙，连厨师都夸我们是专业水准啦!",
+                  en: "江苏智道卧虎藏龙，连厨师都夸我们是专业水准啦!"
+                },
+                {
+                  zh: "ROUND 2  掼蛋比赛",
+                  en: "ROUND 2  掼蛋比赛"
+                }
+              ],
+              imgUrl: [
+                {
+                  image: familyDay2021_32,
+                  caption: {
+                    zh: "",
+                    en: ""
+                  }
+                },
+                {
+                  image: familyDay2021_33,
+                  caption: {
+                    zh: "",
+                    en: ""
+                  }
+                },
+                {
+                  image: familyDay2021_34,
+                  caption: {
+                    zh: "",
+                    en: ""
+                  }
+                },
+                {
+                  image: familyDay2021_35,
+                  caption: {
+                    zh: "",
+                    en: ""
+                  }
+                },
+                {
+                  image: familyDay2021_36,
+                  caption: {
+                    zh: "",
+                    en: ""
+                  }
+                },
+                {
+                  image: familyDay2021_37,
+                  caption: {
+                    zh: "",
+                    en: ""
+                  }
+                },
+                {
+                  image: familyDay2021_38,
+                  caption: {
+                    zh: "",
+                    en: ""
+                  }
+                },
+                {
+                  image: familyDay2021_39,
+                  caption: {
+                    zh: "改日大家继续切磋牌技",
+                    en: "改日大家继续切磋牌技"
+                  }
+                },
+              ]
+            },
+            {
+              subHead: {
+                zh: "",
+                en: ""
+              },
+              subText: [
+                {
+                  zh: "",
+                  en: ""
+                },
+                {
+                  zh: "ROUND 3  球行千里",
+                  en: "ROUND 3  球行千里"
+                }
+              ],
+              imgUrl: [
+                {
+                  image: familyDay2021_40,
+                  caption: {
+                    zh: "",
+                    en: ""
+                  }
+                },
+                {
+                  image: familyDay2021_41,
+                  caption: {
+                    zh: "",
+                    en: ""
+                  }
+                },
+                {
+                  image: familyDay2021_42,
+                  caption: {
+                    zh: "",
+                    en: ""
+                  }
+                },
+                {
+                  image: familyDay2021_43,
+                  caption: {
+                    zh: "",
+                    en: ""
+                  }
+                },
+                {
+                  image: familyDay2021_44,
+                  caption: {
+                    zh: "",
+                    en: ""
+                  }
+                },
+                {
+                  image: familyDay2021_45,
+                  caption: {
+                    zh: "希望大家永远保持一颗爱玩爱闹的心，记得大家一起努力协作使小球入洞的那份激动",
+                    en: "希望大家永远保持一颗爱玩爱闹的心，记得大家一起努力协作使小球入洞的那份激动"
+                  }
                 }
               ]
             },
@@ -187,18 +613,172 @@ const newsdata = [
               },
               subText: [
                 {
-                  zh: "江苏智道工程技术有限公司",
-                  en: "江苏智道工程技术有限公司"
+                  zh: "",
+                  en: ""
                 },
                 {
-                  zh: "2021年8月10日",
-                  en: "2021年8月10日"
+                  zh: "ROUND 4  附上大家活泼游玩的身影~",
+                  en: "ROUND 4  附上大家活泼游玩的身影~"
+                }
+              ],
+              imgUrl: [
+                {
+                  image: familyDay2021_46,
+                  caption: {
+                    zh: "",
+                    en: ""
+                  }
+                },
+                {
+                  image: familyDay2021_47,
+                  caption: {
+                    zh: "",
+                    en: ""
+                  }
+                },
+                {
+                  image: familyDay2021_48,
+                  caption: {
+                    zh: "",
+                    en: ""
+                  }
+                },
+                {
+                  image: familyDay2021_49,
+                  caption: {
+                    zh: "",
+                    en: ""
+                  }
+                },
+                {
+                  image: familyDay2021_50,
+                  caption: {
+                    zh: "",
+                    en: ""
+                  }
+                },
+                {
+                  image: familyDay2021_51,
+                  caption: {
+                    zh: "",
+                    en: ""
+                  }
+                },
+                {
+                  image: familyDay2021_52,
+                  caption: {
+                    zh: "",
+                    en: ""
+                  }
+                },
+                {
+                  image: familyDay2021_53,
+                  caption: {
+                    zh: "",
+                    en: ""
+                  }
+                },
+                {
+                  image: familyDay2021_54,
+                  caption: {
+                    zh: "",
+                    en: ""
+                  }
+                },
+                {
+                  image: familyDay2021_55,
+                  caption: {
+                    zh: "",
+                    en: ""
+                  }
+                },
+                {
+                  image: familyDay2021_56,
+                  caption: {
+                    zh: "",
+                    en: ""
+                  }
+                },
+                {
+                  image: familyDay2021_57,
+                  caption: {
+                    zh: "给最好的我们 — 大合照",
+                    en: "给最好的我们 — 大合照"
+                  }
+                }
+              ]
+            },
+            {
+              subHead: {
+                zh: "",
+                en: ""
+              },
+              subText: [
+                {
+                  zh: "在此，江苏智道工程技术有限公司感谢所有员工的辛勤付出，把我们建设的越来越好。同时，向没有能来参加活动，休息日仍奋战在第一线的员工表示最诚挚的感谢。",
+                  en: "在此，江苏智道工程技术有限公司感谢所有员工的辛勤付出，把我们建设的越来越好。同时，向没有能来参加活动，休息日仍奋战在第一线的员工表示最诚挚的感谢。"
                 }
               ],
               imgUrl: []
-            }
+            },
           ]
         },
+
+        // {
+        //   head: {
+        //     zh: "关于余从立申报江苏省第九批产业教授的公示",
+        //     en: "关于余从立申报江苏省第九批产业教授的公示"
+        //   },
+        //   id: "2021-yucongli-shenbao",
+        //   timestamp: "1628595502",
+        //   headImage: aboutImg,
+        //   text: [
+        //     {
+        //       subHead: {
+        //         zh: "",
+        //         en: ""
+        //       },
+        //       subText: [
+        //         {
+        //           zh: "根据苏教高〔2020〕5 号“关于印发《江苏省产业教授（本科类）选聘办法》的通知”，经研究我司拟推荐设计研究院院长余从立申报江苏省第九批产业教授，现将相关情况予以公示。公示期为5天（2021年8月10日至8月14日）；在公示期间如对余从立同志申报情况有异议，请以书面形式向公司总经办反映情况。",
+        //           en: "根据苏教高〔2020〕5 号“关于印发《江苏省产业教授（本科类）选聘办法》的通知”，经研究我司拟推荐设计研究院院长余从立申报江苏省第九批产业教授，现将相关情况予以公示。公示期为5天（2021年8月10日至8月14日）；在公示期间如对余从立同志申报情况有异议，请以书面形式向公司总经办反映情况。"
+        //         },
+        //         {
+        //           zh: "联系人：总经办 孙园园 15895980365",
+        //           en: "联系人：总经办 孙园园 15895980365"
+        //         }
+        //       ],
+        //       imgUrl: [],
+        //       pdf: [
+        //         {
+        //           path: "/pdf/关于印发《江苏省产业教授（本科类）选聘办法》的通知.pdf",
+        //           text: "附件1 关于印发《江苏省产业教授（本科类）选聘办法》的通知"
+        //         },
+        //         {
+        //           path: "/pdf/江苏省产业教授申报书（本科类）（余从立）.pdf",
+        //           text: "附件2 江苏省产业教授申报书（本科类）（余从立）"
+        //         }
+        //       ]
+        //     },
+        //     {
+        //       subHead: {
+        //         zh: "",
+        //         en: ""
+        //       },
+        //       subText: [
+        //         {
+        //           zh: "江苏智道工程技术有限公司",
+        //           en: "江苏智道工程技术有限公司"
+        //         },
+        //         {
+        //           zh: "2021年8月10日",
+        //           en: "2021年8月10日"
+        //         }
+        //       ],
+        //       imgUrl: []
+        //     }
+        //   ]
+        // },
 
         {
           head: {
