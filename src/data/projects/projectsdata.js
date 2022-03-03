@@ -21,7 +21,7 @@ const projectsdata = {
       en:"Projects"
     },
     body: {
-      zh: "江苏智道工程技术有限公司是集研发、设计、核心制造、工程总承包为一体，专注于工业企业系统能量综合利用、有效成分回收和净化处理达标排放的国家级高新技术企业，节能环保系统优化解决的专家。",
+      zh: "江苏智道工程技术有限公司是集研发、设计、核心制造、工程总承包为一体，专注于工业企业系统能量综合利用、有效成分回收和净化处理达标排放的高新技术企业，节能环保系统优化解决的专家。",
       en: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi."
     },
     subCategories: [
@@ -38,7 +38,7 @@ const projectsdata = {
               en: "An oil company exhaust gas recovery project"
             },
             articleText: {
-              zh: "某企业苯类罐区油气装车正在运行的油气回收装置。工艺采用国内最先进的冷凝+吸附技术。通过冷凝单元回收绝大部分苯类物质和油气中的有机气体，回收的苯类物质和油液可以回炼再利用。吸附单元则作为尾气达标排放的保障系统，净化气体中苯≤4mg/m3、二甲苯≤20mg/m3，污染物排放满足《石油炼制工业污染物排放标准》（GB31570-2015）。",
+              zh: "某企业苯类罐区油气装车正在运行的油气回收装置。工艺采用国内先进的冷凝+吸附技术。通过冷凝单元回收绝大部分苯类物质和油气中的有机气体，回收的苯类物质和油液可以回炼再利用。吸附单元则作为尾气达标排放的保障系统，净化气体中苯≤4mg/m3、二甲苯≤20mg/m3，污染物排放满足《石油炼制工业污染物排放标准》（GB31570-2015）。",
               en: "The oil and gas recovery equipment is running in the oil and gas loading of a company. The process adopts the most advanced condensation and adsorption technology in China. The recycling of benzene and oil can be reused by condensing units to recycle most of the benzene and gas. The adsorption unit ACTS as a guarantee system for the exhaust emission standard, and the purification of benzene is not more than 4mg/m3, the xylene is less than 20mg/m3, and the pollutant discharge meets the standards for the discharge of petroleum refining industrial pollutants (gb1570-2015)."
             },
             articleImage: VOCarticle1
@@ -49,7 +49,7 @@ const projectsdata = {
               en: "Gas control project of oil storage and transportation department of a petrochemical company"
             },
             articleText: {
-              zh: "某企业苯类罐区及航空煤油和溶剂油装车正在运行的油气回收装置。工艺采用国内最先进的冷凝+吸附技术。油气通过冷凝单元回收绝大部分苯类物质和油气中的有机气体，回收的苯类物质和油液可以回炼利用。吸附单元则作为尾气达标排放的保障系统，净化气体中苯≤4mg/m3；甲苯≤15mg/m3；二甲苯 ≤20mg/m3，污染物排放满足《石油炼制工业污染物排放标准》（GB31570-2015）。",
+              zh: "某企业苯类罐区及航空煤油和溶剂油装车正在运行的油气回收装置。工艺采用国内先进的冷凝+吸附技术。油气通过冷凝单元回收绝大部分苯类物质和油气中的有机气体，回收的苯类物质和油液可以回炼利用。吸附单元则作为尾气达标排放的保障系统，净化气体中苯≤4mg/m3；甲苯≤15mg/m3；二甲苯 ≤20mg/m3，污染物排放满足《石油炼制工业污染物排放标准》（GB31570-2015）。",
               en: "The oil and gas recovery equipment is running in the benzene tank area and the aviation kerosene and solvent oil in a certain enterprise. The technology adopts the most advanced condensing + adsorption technology in China. The oil and gas can recover most of the benzene material and the organic gas in the oil and gas through the condensing unit, and the recovered benzene and oil can be recycled. The adsorption unit as a guarantee system exhaust emissions standards, the purification of benzene in gas is less than or equal to 4mg/m3 = 15mg/m3; toluene; xylene = 20mg/m3, pollutant emissions meet the 'emission standard of pollutants from petroleum refining industry' (GB31570-2015)."
             },
             articleImage: VOCarticle2
@@ -210,8 +210,8 @@ const projectsdata = {
               en: "Energy comprehensive utilization project of spandex system"
             },
             articleText: {
-              zh: "在氨纶生产过程中通过使用热管换热器综合利用系统能量。平均每吨氨纶能耗可节约0.7吨标煤，以单线最大产量6 t/天计，单条线投资成本约为60万元，回收期为半年，具有良好的经济、社会效益。",
-              en: "在氨纶生产过程中通过使用热管换热器综合利用系统能量。平均每吨氨纶能耗可节约0.7吨标煤，以单线最大产量6 t/天计，单条线投资成本约为60万元，回收期为半年，具有良好的经济、社会效益。 Through the use of heat pipe heat exchanger, the energy of the system is used in the production of spandex. The average energy consumption per ton of spandex can save 0.7 tons of standard coal, and the maximum output per line is 6 t/ days. The cost of single line investment is about 600 thousand yuan, and the payback period is half a year, which has good economic and social benefits."
+              zh: "在氨纶生产过程中通过使用热管换热器综合利用系统能量。平均每吨氨纶能耗可节约0.7吨标煤，以单线产量6 t/天计，单条线投资成本约为60万元，回收期为半年，具有良好的经济、社会效益。",
+              en: "在氨纶生产过程中通过使用热管换热器综合利用系统能量。平均每吨氨纶能耗可节约0.7吨标煤，以单线产量6 t/天计，单条线投资成本约为60万元，回收期为半年，具有良好的经济、社会效益。 Through the use of heat pipe heat exchanger, the energy of the system is used in the production of spandex. The average energy consumption per ton of spandex can save 0.7 tons of standard coal, and the maximum output per line is 6 t/ days. The cost of single line investment is about 600 thousand yuan, and the payback period is half a year, which has good economic and social benefits."
             },
             articleImage: UtilArticle5
           },

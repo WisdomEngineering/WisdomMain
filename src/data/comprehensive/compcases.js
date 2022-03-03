@@ -57,8 +57,8 @@ const compCases = [
             en: "Energy comprehensive utilization project of spandex system"
         },
         articleText: {
-            zh: "在氨纶生产过程中通过使用热管换热器综合利用系统能量。平均每吨氨纶能耗可节约0.7吨标煤，以单线最大产量6 t/天计，单条线投资成本约为60万元，回收期为半年，具有良好的经济、社会效益。",
-            en: "在氨纶生产过程中通过使用热管换热器综合利用系统能量。平均每吨氨纶能耗可节约0.7吨标煤，以单线最大产量6 t/天计，单条线投资成本约为60万元，回收期为半年，具有良好的经济、社会效益。 Through the use of heat pipe heat exchanger, the energy of the system is used in the production of spandex. The average energy consumption per ton of spandex can save 0.7 tons of standard coal, and the maximum output per line is 6 t/ days. The cost of single line investment is about 600 thousand yuan, and the payback period is half a year, which has good economic and social benefits."
+            zh: "在氨纶生产过程中通过使用热管换热器综合利用系统能量。平均每吨氨纶能耗可节约0.7吨标煤，以单线产量6 t/天计，单条线投资成本约为60万元，回收期为半年，具有良好的经济、社会效益。",
+            en: "在氨纶生产过程中通过使用热管换热器综合利用系统能量。平均每吨氨纶能耗可节约0.7吨标煤，以单线产量6 t/天计，单条线投资成本约为60万元，回收期为半年，具有良好的经济、社会效益。 Through the use of heat pipe heat exchanger, the energy of the system is used in the production of spandex. The average energy consumption per ton of spandex can save 0.7 tons of standard coal, and the maximum output per line is 6 t/ days. The cost of single line investment is about 600 thousand yuan, and the payback period is half a year, which has good economic and social benefits."
         },
         articleImage: UtilArticle5
     },
