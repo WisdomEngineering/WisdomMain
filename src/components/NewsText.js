@@ -10,7 +10,7 @@ const NewsText = (props) => {
       <p className="chinese-section-body"><strong>{paragraph.subHead[language]}</strong></p>
       {
         paragraph.subText.map((subItem, idx) => 
-        <p className="chinese-section-body" key={idx}>
+        <p style={{textIndent: 35}} className="chinese-section-body" key={idx}>
           {subItem[language]}
         </p>
         )
