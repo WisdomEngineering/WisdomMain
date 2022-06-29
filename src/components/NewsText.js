@@ -26,6 +26,17 @@ const NewsText = (props) => {
         })
       }
       {
+        paragraph.hasOwnProperty("videoUrl") &&
+        paragraph.videoUrl.map((video, index) => {
+          return (
+            <video key={index} width="450" style={{maxWidth: '100%', display: 'block', margin: '0 auto'}} controls>
+              <source src={video} type="video/mp4" />
+                你的浏览器不支持视频。
+            </video>
+          )
+        })
+      }
+      {
         <div>
         {paragraph.imgUrl.map((image, index) => 
             image.image===null?<div key={index} />:
