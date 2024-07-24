@@ -6,7 +6,8 @@ import {bindActionCreators} from 'redux';
 import {switchPage} from '../actions/index';
 import { getLocationFromParams } from '../utils/index';
 import mainCarousel1 from '../images/carousel/carousel1.jpg';
-import mainCarousel2 from '../images/carousel/carousel2.jpg';
+// import mainCarousel2 from '../images/carousel/carousel2.jpg';
+import mainCarousel2 from '../images/carousel/carousel2-reduced.jpg';
 import mainCarousel3 from '../images/carousel/carousel3.jpg';
 import mainCarousel4 from '../images/carousel/carousel4.jpg';
 import mainCarousel1tiny from '../images/carousel/carousel1-tiny.jpg';
@@ -25,7 +26,7 @@ const images = [
       en: "Chairman's Speech"
     },
     body: {
-      zh: "膜技术产业工程应用领先者",
+      zh: "DDS、膜等新技术工程应用领先者",
       en: "Our success depends on the success of customers"
     },
     link: "/mission/membrane/tech"

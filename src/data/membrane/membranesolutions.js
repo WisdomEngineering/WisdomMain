@@ -1,6 +1,66 @@
 import memSol1 from '../../images/solutions/membraneSol1.png';
+// import memSol2 from '../../images/solutions/membraneSol2.jpeg';
+import memSol2 from '../../images/solutions/membraneSol2.jpg';
 
 const membraneSolutions = [
+    {
+        articleHead: {
+            zh: "焦炉煤气DDS生物脱硫技术",
+            en: "焦炉煤气DDS生物脱硫技术"
+        },
+        articleContent: [
+            {
+                text: {
+                    zh: "宝武集团梅山钢铁焦炉煤气DDS精脱硫项目—— 国际首创",
+                    en: "宝武集团梅山钢铁焦炉煤气DDS精脱硫项目—— 国际首创"
+                },
+                articleImage: [
+                    {
+                        imageURL: memSol2,
+                        caption: {
+                            zh: "与北京大学合作——DDS技术在第44届日内瓦国际发明展览会获得特别金奖",
+                            en: "与北京大学合作——DDS技术在第44届日内瓦国际发明展览会获得特别金奖"
+                        }
+                    }
+                ]
+            },
+            {
+                text: {
+                    zh: "传统技术与生物技术的有机结合使气体脱硫技术跨入生物技术时代近零排放，",
+                    en: "传统技术与生物技术的有机结合使气体脱硫技术跨入生物技术时代近零排放，"
+                },
+                articleImage: []
+            },
+            {
+                text: {
+                    zh: "从源头脱硫，",
+                    en: "从源头脱硫，"
+                },
+                articleImage: []
+            },
+            {
+                text: {
+                    zh: "减少下游使用和燃烧焦炉煤气必须的大量脱硫装置，",
+                    en: "减少下游使用和燃烧焦炉煤气必须的大量脱硫装置，"
+                },
+                articleImage: []
+            },
+            {
+                text: {
+                    zh: "不仅节省投资，最重要的是节能减排效果将十分显著！",
+                    en: "不仅节省投资，最重要的是节能减排效果将十分显著！"
+                },
+                articleImage: []
+            },
+            {
+                text: {
+                    zh: "DDS技术在第44届日内瓦国际发明展览会获得特别金奖",
+                    en: "DDS技术在第44届日内瓦国际发明展览会获得特别金奖"
+                },
+                articleImage: []
+            },
+        ]
+    },
     {
         articleHead: {
             zh: "分子筛膜脱水技术",

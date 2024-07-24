@@ -12,7 +12,7 @@ const headers = {
 		{
 			head: "工程案例", icon: "glyphicon glyphicon-pushpin", id: 4, link: "/mission", subitem: '智道使命', sublist:[
 				{
-					head: "膜分离技术", id: 4.2, link: "/mission/membrane/tech"
+					head: "DDS、膜技术工程应用", id: 4.2, link: "/mission/membrane/tech"
 				},
 				{
 					head: "有效成分回收、VOCs治理技术", id: 4.3, link: "/mission/voc/tech"
@@ -45,7 +45,7 @@ const headers = {
 		{
 			head: "Mission", icon: "glyphicon glyphicon-pushpin", id: 4, link: "/mission", subitem: '智道使命', sublist:[
 				{
-					head: "膜分离技术", id: 4.2, link: "/mission/membrane/tech"
+					head: "DDS、膜技术工程应用", id: 4.2, link: "/mission/membrane/tech"
 				},
 				{
 					head: "有效成分回收、VOCs治理技术", id: 4.3, link: "/mission/voc/tech"
