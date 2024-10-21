@@ -4,7 +4,6 @@ import VOC3 from '../../images/solutions/VOC3-min.png';
 import VOC4 from '../../images/solutions/VOC4-min.png';
 import VOC5 from '../../images/solutions/VOC5-min.png';
 import VOC7 from '../../images/solutions/VOC7-min.png';
-import VOC8 from '../../images/solutions/VOC8-min.png';
 import VOC9 from '../../images/solutions/VOC9-min.png';
 
 const vocSolutions = [
@@ -105,13 +104,6 @@ const vocSolutions = [
                 articleImage: [
                     {
                         imageURL: VOC7,
-                        caption: {
-                            zh: "",
-                            en: ""
-                        }
-                    },
-                    {
-                        imageURL: VOC8,
                         caption: {
                             zh: "",
                             en: ""

@@ -1,6 +1,7 @@
 import memSol1 from '../../images/solutions/membraneSol1.png';
 // import memSol2 from '../../images/solutions/membraneSol2.jpeg';
-import memSol2 from '../../images/solutions/membraneSol2.jpg';
+// import memSol2 from '../../images/solutions/membraneSol2.jpg';
+import memSol2 from '../../images/solutions/membraneSol2.png';
 
 const membraneSolutions = [
     {
@@ -18,8 +19,8 @@ const membraneSolutions = [
                     {
                         imageURL: memSol2,
                         caption: {
-                            zh: "与北京大学合作——DDS技术在第44届日内瓦国际发明展览会获得特别金奖",
-                            en: "与北京大学合作——DDS技术在第44届日内瓦国际发明展览会获得特别金奖"
+                            zh: "与北京大学合作——DDS技术2024年5月在第49届获得日内瓦国际发明展览会特别金奖",
+                            en: "与北京大学合作——DDS技术2024年5月在第49届获得日内瓦国际发明展览会特别金奖"
                         }
                     }
                 ]
