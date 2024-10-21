@@ -3,6 +3,9 @@ import VOC2 from '../../images/solutions/VOC2-min.png';
 import VOC3 from '../../images/solutions/VOC3-min.png';
 import VOC4 from '../../images/solutions/VOC4-min.png';
 import VOC5 from '../../images/solutions/VOC5-min.png';
+import VOC7 from '../../images/solutions/VOC7-min.png';
+import VOC8 from '../../images/solutions/VOC8-min.png';
+import VOC9 from '../../images/solutions/VOC9-min.png';
 
 const vocSolutions = [
     {
@@ -78,6 +81,61 @@ const vocSolutions = [
                     },
                     {
                         imageURL: VOC5,
+                        caption: {
+                            zh: "",
+                            en: ""
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    {
+        articleHead: {
+            zh: "蓄冷式间接冷凝技术",
+            en: "蓄冷式间接冷凝技术"
+        },
+        articleContent: [
+            {
+                text: {
+                    zh: "适合于油气流量、浓度变化大的工况，如罐区油气回收。用载冷剂预储存冷量，根据油气流量变化调节输出冷源强度，克服传统直接冷凝机组在变工况条件下运行不稳定排放不达标的状况。在冷凝机组稳定运行的基础上，低浓度的油气通过抗爆型催化氧化装置实现超低浓度排放。",
+                    en: "适合于油气流量、浓度变化大的工况，如罐区油气回收。用载冷剂预储存冷量，根据油气流量变化调节输出冷源强度，克服传统直接冷凝机组在变工况条件下运行不稳定排放不达标的状况。在冷凝机组稳定运行的基础上，低浓度的油气通过抗爆型催化氧化装置实现超低浓度排放。"
+                },
+                articleImage: [
+                    {
+                        imageURL: VOC7,
+                        caption: {
+                            zh: "",
+                            en: ""
+                        }
+                    },
+                    {
+                        imageURL: VOC8,
+                        caption: {
+                            zh: "",
+                            en: ""
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    {
+        articleHead: {
+            zh: "吸收、深冷、膜、吸附组合工艺+RTO、RCO、CO后处理工艺技术",
+            en: "吸收、深冷、膜、吸附组合工艺+RTO、RCO、CO后处理工艺技术"
+        },
+        articleContent: [
+            {
+                text: {
+                    zh: "适用于含有轻组分、高浓度的汽油及石脑油等油气的排放治理技术；通过梯级治理、确保每一级治理单元出口油气浓度可控，从而可以实现油气回收治理设施的稳定、安全、达标排放运行。",
+                    en: "适用于含有轻组分、高浓度的汽油及石脑油等油气的排放治理技术；通过梯级治理、确保每一级治理单元出口油气浓度可控，从而可以实现油气回收治理设施的稳定、安全、达标排放运行。"
+                },
+                articleImage: [
+                    {
+                        imageURL: VOC9,
                         caption: {
                             zh: "",
                             en: ""
