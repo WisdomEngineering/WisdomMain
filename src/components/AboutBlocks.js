@@ -23,7 +23,7 @@ const head = {
 }
 
 const subHead = {
-    'zh': '以膜应用为核心，综合诊断，集成优化系统的节能环保专家',
+    'zh': '集研发、设计、核心制造、工程总承包、专业化运行维护为一体的国家高新技术企业。',
     'en': 'Not only reducing pollution, but also providing ecomonic benefits'
 }
 

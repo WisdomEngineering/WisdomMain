@@ -185,88 +185,88 @@ const aboutdatabasic = [
     },
     text: [
       {
-        zh: "国家高新技术企业 ",
-        en: "Grade B environmental engineering design qualification"
+        zh: "国家高新技术企业",
+        en: "国家高新技术企业"
       },
       {
-        zh: "环境工程专项乙级资质 ",
-        en: "Design qualification of level D pressure vessel"
+        zh: "专精特新企业",
+        en: "专精特新企业"
       },
       {
-        zh: "D级压力容器设计资质",
-        en: "Design qualification of level GC1 pressure piping"
+        zh: "江苏省工程技术研究中心",
+        en: "江苏省工程技术研究中心"
       },
       {
-        zh: "GC1类压力管道设计资质",
-        en: "Graduate workstation of jiangsu province"
+        zh: "工程设计化工石化医药乙级",
+        en: "工程设计化工石化医药乙级"
       },
       {
-        zh: "江苏省研究生工作站",
-        en: "Famous trade mark in jiangsu province"
+        zh: "工程设计环境工程大气污染防治工程乙级",
+        en: "工程设计环境工程大气污染防治工程乙级"
       },
       {
-        zh: "江苏省著名商标",
-        en: "Famous trade mark in nanjing"
+        zh: "GC1压力管道设计资质",
+        en: "GC1压力管道设计资质"
       },
       {
-        zh: "南京市著名商标",
-        en: "Nanjing enterprise technology center"
+        zh: "机电工程施工总承包贰级",
+        en: "机电工程施工总承包贰级"
       },
       {
-        zh: "南京市企业技术中心",
-        en: "Qualification of A2 pressure container manufacturing"
+        zh: "环保工程专业承包贰级",
+        en: "环保工程专业承包贰级"
       },
       {
-        zh: "A2级压力容器制造资质",
-        en: "One of the fifth batch of energy-conserving companies"
-      },
-      {
-        zh: "国家第五批合同能源管理企业",
-        en: "Member of the Sinopec Resource Market"
-      },
-      {
-        zh: "中石化市场成员单位",
-        en: "Network supplier of China National Chemical Corporation"
-      },
-      {
-        zh: "中国化工集团网络成员单位",
-        en: "Jiangsu private technology enterprise"
-      },
-      {
-        zh: "江苏省民营科技企业",
-        en: "AAA credit rating enterprise"
+        zh: "安全生产许可证",
+        en: "安全生产许可证"
       },
       {
         zh: "AAA级资信等级企业",
-        en: "Qualification of ISO9001 quality management system"
+        en: "AAA级资信等级企业"
       },
       {
-        zh: "ISO9001质量管理体系认证",
-        en: "Qualification of ISO14001 environmental management system"
+        zh: "工信部认定的节能服务公司",
+        en: "工信部认定的节能服务公司"
+      },
+      {
+        zh: "南京节能环保产业协会会长单位",
+        en: "南京节能环保产业协会会长单位"
+      },
+      {
+        zh: "中美绿色合作组织成员单位",
+        en: "中美绿色合作组织成员单位"
+      },
+      {
+        zh: "江苏省民营科技企业",
+        en: "江苏省民营科技企业"
+      },
+      {
+        zh: "江苏省著名商标",
+        en: "江苏省著名商标"
+      },
+      {
+        zh: "南京市著名商标",
+        en: "南京市著名商标"
+      },
+      {
+        zh: "南京市工程技术研究中心",
+        en: "南京市工程技术研究中心"
+      },
+      {
+        zh: "江苏省研究生工作站",
+        en: "江苏省研究生工作站"
+      },
+      {
+        zh: "通过ISO9001国际质量体系认证",
+        en: "通过ISO9001国际质量体系认证"
       },
       {
         zh: "ISO14001环境管理体系认证",
-        en: "OHSAS18001 occupational health and safety management system"
+        en: "ISO14001环境管理体系认证"
       },
       {
-        zh: "OHSAS18001职业健康安全管理体系认证",
-        en: "OHSAS18001职业健康安全管理体系认证"
-      },
-      {
-        en: "中国石油和化学工业联合会技术发明奖一等奖",
-        zh: "中国石油和化学工业联合会技术发明奖一等奖"
-      },
-      {
-        en: "中国产学研合作创新奖",
-        zh: "中国产学研合作创新奖"
-      },
-      {
-        en: "教育部自然科学奖二等奖",
-        zh: "教育部自然科学奖二等奖"
-      },
-      {
-        en: "教育部技术发明奖二等奖",
-        zh: "教育部技术发明奖二等奖"
+        zh: "ISO45001职业健康安全管理体系认证",
+        en: "ISO45001职业健康安全管理体系认证"
       }
     ],
     id: 'aptitude-honor',
@@ -278,6 +278,22 @@ const aboutdatabasic = [
       en: "Timeline"
     },
     text: [
+      {
+        subHead: {
+          zh: "2024年",
+          en: "2024"
+        },
+        subText: [
+          {
+            zh: "2024年11月，新余钢铁DDS项目合同额：1.2亿",
+            en: "2024年11月，新余钢铁DDS项目合同额：1.2亿"
+          },
+          {
+            zh: "2024年9月，水管平台开发成功",
+            en: "2024年9月，水管平台开发成功"
+          },
+        ]
+      },
       {
         subHead: {
           zh: "2023年",
