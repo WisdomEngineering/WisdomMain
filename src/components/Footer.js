@@ -86,8 +86,8 @@ class Footer extends React.Component {
           <p style={{height:"20px", lineHeight:"20px", margin: "0px 0px 5px 5px", color:"#939393"}}>版权所有 江苏智道工程技术有限公司</p>
           <div style={{display:"inline-block", height: "20px", lineHeight:"20px"}}>
             <p style={{height:"20px", lineHeight:"20px", margin: "0px 0px 0px 5px", color:"#939393"}}>
-              <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=32010602010751" target="_blank" style={{textDecoration:"none", color:"#939393"}}>
-                <span>苏公网安备 32010602010751号 &nbsp;&nbsp;&nbsp;&nbsp;</span>
+              <a href="https://beian.mps.gov.cn/#/query/webSearch?code=32010602012183" target="_blank" style={{textDecoration:"none", color:"#939393"}}>
+                <span>苏公网安备 32010602012183号 &nbsp;&nbsp;&nbsp;&nbsp;</span>
               </a>
               <img src={beian} style={{float:"left"}}/>
               <a href="https://beian.miit.gov.cn/" target="_blank" style={{textDecoration:"none", color:"#939393"}}>
