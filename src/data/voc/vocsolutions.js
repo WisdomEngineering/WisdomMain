@@ -1,10 +1,10 @@
 import VOC1 from '../../images/solutions/VOC1-min.jpg';
 import VOC2 from '../../images/solutions/VOC2-min.png';
-import VOC3 from '../../images/solutions/VOC3-min.png';
+import VOC3 from '../../images/solutions/VOC3-min.jpg';
 import VOC4 from '../../images/solutions/VOC4-min.png';
 import VOC5 from '../../images/solutions/VOC5-min.png';
-import VOC7 from '../../images/solutions/VOC7-min.png';
-import VOC9 from '../../images/solutions/VOC9-min.png';
+import VOC7 from '../../images/solutions/VOC7-min.jpg';
+import VOC9 from '../../images/solutions/VOC9-min.jpg';
 
 const vocSolutions = [
     {

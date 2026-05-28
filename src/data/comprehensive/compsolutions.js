@@ -7,6 +7,11 @@ import energyutil6 from '../../images/solutions/energyutil6-min.png';
 import energyutil7 from '../../images/solutions/energyutil7-min.png';
 import energyutil8 from '../../images/solutions/energyutil8-min.png';
 import energyutil9 from '../../images/solutions/energyutil9-min.png';
+import energyutil10 from '../../images/solutions/energyutil10-min.png';
+import energyutil11 from '../../images/solutions/energyutil11-min.png';
+import energyutil12 from '../../images/solutions/energyutil12-min.png';
+import energyutil13 from '../../images/solutions/energyutil13-min.jpg';
+import energyutil14 from '../../images/solutions/energyutil14-min.jpg';
 
 const compSolutions = [
     {
@@ -187,7 +192,192 @@ const compSolutions = [
                 ]
             }
         ]
-    }
+    },
+
+    {
+        articleHead: {
+            zh: "能源系统诊断、优化、综合利用技术",
+            en: "Energy System Diagnosis, Optimization, And Comprehensive Utilization Technology"
+        },
+        articleContent: [
+            {
+                text: {
+                    zh: "能源消费结构优化",
+                    en: "Energy Consumption Structure Optimization"
+                },
+                articleImage: [
+                    {
+                        imageURL: null,
+                        caption: {
+                            zh: "",
+                            en: ""
+                        }
+                    }
+                ]
+            },
+            {
+                text: {
+                    zh: "能源损失控制、余热余能利用优化、能量梯级利用",
+                    en: "Energy Loss Control, Optimization Of Waste Heat And Energy Utilization, Energy Cascading Utilization"
+                },
+                articleImage: [
+                    {
+                        imageURL: null,
+                        caption: {
+                            zh: "",
+                            en: ""
+                        }
+                    }
+                ]
+            },
+            {
+                text: {
+                    zh: "设备升级及运行优化",
+                    en: "Equipment Upgrade And Operation Optimization"
+                },
+                articleImage: [
+                    {
+                        imageURL: null,
+                        caption: {
+                            zh: "",
+                            en: ""
+                        }
+                    }
+                ]
+            },
+            {
+                text: {
+                    zh: "能源管理体系完善及措施优化",
+                    en: "Energy Management System Improvement And Measure Optimization"
+                },
+                articleImage: [
+                    {
+                        imageURL: null,
+                        caption: {
+                            zh: "",
+                            en: ""
+                        }
+                    }
+                ]
+            },
+            {
+                text: {
+                    zh: "工艺流程改进及生产组织优化",
+                    en: "Process Improvement And Production Organization Optimization"
+                },
+                articleImage: [
+                    {
+                        imageURL: null,
+                        caption: {
+                            zh: "",
+                            en: ""
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        articleHead: {
+            zh: "全厂用水管控平台",
+            en: "Water Management Platform For The Entire Plant"
+        },
+        articleContent: [
+            {
+                text: {
+                    zh: "通过全厂用水管控平台，将企业分散、孤立的子系统中相关用水数据，通过内网集成至管控平台，实现多区域零散系统网络通讯，物联网数据采集，实现全厂用水、排水的全过程集中管控。",
+                    en: "The water management platform for the entire plant is based on Internet of Things, big data, artificial intelligence and other technologies, to achieve real-time monitoring, analysis and optimization control of the water consumption of the entire plant."
+                },
+                articleImage: [
+                    {
+                        imageURL: energyutil10,
+                        caption: {
+                            zh: "",
+                            en: ""
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        articleHead: {
+            zh: "远程智能运维技术",
+            en: "Remote Intelligent Maintenance Technology"
+        },
+        articleContent: [
+            {
+                text: {
+                    zh: "人工智能全天候，实现项目生产安全预警、监管、设备维护、运营优化、新技术升级等数字化智能运维及管理",
+                    // English translation
+                    en: "Artificial intelligence 24/7, to achieve project production safety warning, supervision, equipment maintenance, operation optimization, new technology upgrade and other digital intelligent maintenance and management"
+                },
+                articleImage: [
+                    {
+                        imageURL: energyutil11,
+                        caption: {
+                            zh: "",
+                            en: ""
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        articleHead: {
+            zh: "永磁调速技术",
+            en: "Permanent Magnet Speed Control Technology"
+        },
+        articleContent: [
+            {
+                text: {
+                    zh: "永磁调速技术是利用永磁场非接触传递扭矩，是用于离心式负载的力矩。永磁调速器安装于电机和负载（水泵、风机等）之间，在电机转速不变的情况下，通过调节气隙或耦合面积，改变负载转速，从而实现对流量或压力的连续稳定控制。",
+                    // English translation
+                    en: "Permanent magnet speed control technology is a torque transmitted by non-contact magnetic field, which is used for centrifugal load. The permanent magnet speed controller is installed between the motor and the load (pumps, fans, etc.), and the load speed is changed by adjusting the air gap or coupling area under the condition of constant motor speed, so as to achieve the continuous and stable control of flow or pressure."
+                },
+                articleImage: [
+                    {
+                        imageURL: energyutil12,
+                        caption: {
+                            zh: "",
+                            en: ""
+                        }
+                    }
+                ]
+            },
+            {
+                text: {
+                    zh: "",
+                    en: ""
+                },
+                articleImage: [
+                    {
+                        imageURL: energyutil13,
+                        caption: {
+                            zh: "安庆石化电厂除盐水泵节电率26.5%",
+                            en: "安庆石化电厂除盐水泵节电率26.5%"
+                        }
+                    }
+                ]
+            },
+            {
+                text: {
+                    zh: "",
+                    en: ""
+                },
+                articleImage: [
+                    {
+                        imageURL: energyutil14,
+                        caption: {
+                            zh: "宝武梅钢再生泵、脱硫循环泵节电率超15%",
+                            en: "宝武梅钢再生泵、脱硫循环泵节电率超15%"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
 ]
 
 export default compSolutions;

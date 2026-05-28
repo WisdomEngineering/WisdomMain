@@ -4,6 +4,9 @@ import UtilArticle3 from '../../images/projects/Utilize/article3.jpg';
 import UtilArticle4 from '../../images/projects/Utilize/article4.png';
 import UtilArticle5 from '../../images/projects/Utilize/article5.jpg';
 import UtilArticle6 from '../../images/projects/Utilize/article6.jpg';
+import UtilArticle7 from '../../images/projects/Utilize/article7.jpg';
+import UtilArticle8 from '../../images/projects/Utilize/article8.jpg';
+import UtilArticle9 from '../../images/projects/Utilize/article9.jpg';
 
 
 const compCases = [
@@ -65,13 +68,48 @@ const compCases = [
     {
         articleHead: {
             zh: "某公司硫酸镍溶液新型节能蒸发技术的研究与开发项目",
-            en: "	Research and development project of a new type of energy saving evaporation technology for nickel sulfate solution in a company"
+            en: "Research and development project of a new type of energy saving evaporation technology for nickel sulfate solution in a company"
         },
         articleText: {
             zh: "该项目成功将MVR技术运用于NiSO4蒸发工艺中，具有明显的节能减排效果。装置规模为3m3/h，以年运行350天，每天运行20小时，年产硫酸镍1万吨计算，需要投资约350万元，每年可以为公司节省生产成本179.83万元，不到两年即可回收成本。每年可减少热量排往环境约6.27×1010 kJ，折标煤2139 t，减少CO2排放5327.1 t、SO2排放160.5 t、NOx排放80.2 t，有效地改善当地生态环境，消除对大气环境的污染，有益于当地空气改善，具有显著的社会及环境效益。",
             en: "The project successfully applied the MVR technology to the NiSO4 evaporation process, which has obvious effect on energy saving and emission reduction. The scale of the device is 3m3/h, which runs 20 hours per day for 350 days per year, and the annual output of nickel sulfate is 10 thousand tons. The investment needs about 3 million 500 thousand yuan, which can save 1 million 798 thousand and 300 yuan for the company every year, and it can be recovered in less than two years. Every year, the project can reduce the heat discharged to the environment by about 6.27 * 1010 kJ, which is equivalent to 2139 t standard coal, and can reduce the emission of CO2 by 5327.1 T, SO2 by 160.5 T, and NOx by 80.2 T. This project brings great benefits to the local ecological environment, eliminating the pollution of the atmospheric environment, and improving local air quality."
         },
         articleImage: UtilArticle6
+    },
+    {
+        articleHead: {
+            zh: "某石化企业",
+            en: "A petrochemical enterprise"
+        },
+        articleText: {
+            zh: "通过能效测试，对全厂8个运行部16套装置进行物料、能效评价，实施装置系统工艺优化，能量综合平衡利用。对空冷器、水冷器等进行改造，设置余热利用平衡站（集中供热和供冷站）。对全厂凝结水进行回收利用。热水或低压蒸汽供装置或储罐伴热；供冷站满足装置用冷需求；同时实现工作区和办公区夏、冬温度调控，替代分散的电空调。",
+            en: "通过能效测试，对全厂8个运行部16套装置进行物料、能效评价，实施装置系统工艺优化，能量综合平衡利用。对空冷器、水冷器等进行改造，设置余热利用平衡站（集中供热和供冷站）。对全厂凝结水进行回收利用。热水或低压蒸汽供装置或储罐伴热；供冷站满足装置用冷需求；同时实现工作区和办公区夏、冬温度调控，替代分散的电空调。"
+        },
+        articleImage: UtilArticle7
+    },
+    {
+        articleHead: {
+            zh: "某钢铁企业水系统",
+            en: "Water system of a steel enterprise"
+        },
+        articleText: {
+            zh: "涉及PLC：82个，涉及供水站点43个",
+            // english translation
+            en: "Involved PLC: 82, involved供水站点43个"
+        },
+        articleImage: UtilArticle8
+    },
+    {
+        articleHead: {
+            zh: "某钢铁企业焦炉煤气精脱硫智能运维",
+            en: "Intelligent maintenance of DDS desulfurization of coke oven gas in a steel enterprise"
+        },
+        articleText: {
+            zh: "确保连续安全、稳定、持续优化。",
+            // english translation
+            en: "Through the intelligent maintenance platform, the remote monitoring, data analysis, fault warning, equipment maintenance, operation optimization and other functions of the DDS desulfurization system of coke oven gas are realized."
+        },
+        articleImage: UtilArticle9
     }
 ]
 

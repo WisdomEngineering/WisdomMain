@@ -2,6 +2,7 @@ import memSol1 from '../../images/solutions/membraneSol1.png';
 // import memSol2 from '../../images/solutions/membraneSol2.jpeg';
 // import memSol2 from '../../images/solutions/membraneSol2.jpg';
 import memSol2 from '../../images/solutions/membraneSol2.png';
+import memSol3 from '../../images/solutions/membraneSol3.jpg';
 
 const membraneSolutions = [
     {
@@ -58,7 +59,15 @@ const membraneSolutions = [
                     zh: "DDS生物脱硫技术在第49届日内瓦国际发明展览会获得特别金奖。",
                     en: "DDS生物脱硫技术在第49届日内瓦国际发明展览会获得特别金奖。"
                 },
-                articleImage: []
+                articleImage: [
+                    {
+                        imageURL: memSol3,
+                        caption: {
+                            zh: "宝武集团新余钢铁焦炉煤气深度脱硫项目——国内第二套焦化行业新建生物脱硫装置，处理焦炉煤气量：17万Nm³/h，回收硫膏：~150kg/h",
+                            en: "Baowu Group New Steel Coke Oven Gas Deep Desulfurization Project——The second biochemical sulfur removal device in the coke industry in China, processing coke oven gas: 170,000 Nm³/h, recovered sulfur cake: ~150kg/h"
+                        }
+                    }
+                ]
             },
         ]
     },
