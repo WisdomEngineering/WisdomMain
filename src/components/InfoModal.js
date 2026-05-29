@@ -20,7 +20,7 @@ const InfoModal = (props) => {
                   <div className="img-container text-center" key={idx}>
                     <Image src={image.imageURL} className="center-img" width="100%" responsive/>
                     {image.caption[language]===""?<div></div>:
-                      <p className="modal-caption" style={{marginTop: 2}}><span className="mini-tab" style={styles.tab} /> {image.caption[language]}</p>
+                      <p className="modal-caption" style={{marginTop: 2, whiteSpace: "pre-wrap"}}><span className="mini-tab" style={styles.tab} /> {image.caption[language]}</p>
                     }
                   </div>
                 )
