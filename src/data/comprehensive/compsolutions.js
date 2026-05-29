@@ -285,7 +285,7 @@ const compSolutions = [
         articleContent: [
             {
                 text: {
-                    zh: "通过全厂用水管控平台，将企业分散、孤立的子系统中相关用水数据，通过内网集成至管控平台，实现多区域零散系统网络通讯，物联网数据采集，实现全厂用水、排水的全过程集中管控。",
+                    zh: "通过全厂用水管控平台，将钢铁、冶金等企业分散、孤立的子系统中相关用水数据，通过内网集成至管控平台，实现多区域零散系统网络通讯，物联网数据采集，实现全厂用水、排水的全过程集中管控。",
                     en: "The water management platform for the entire plant is based on Internet of Things, big data, artificial intelligence and other technologies, to achieve real-time monitoring, analysis and optimization control of the water consumption of the entire plant."
                 },
                 articleImage: [

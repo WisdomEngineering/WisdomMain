@@ -93,7 +93,7 @@ const compCases = [
             en: "Water system of a steel enterprise"
         },
         articleText: {
-            zh: "涉及PLC：82个，涉及供水站点43个",
+            zh: "变量点位容量设计：3000点，涉及PLC：82个，涉及供水站点43个",
             // english translation
             en: "Involved PLC: 82, involved供水站点43个"
         },
